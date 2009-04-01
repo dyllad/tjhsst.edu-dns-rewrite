@@ -1086,6 +1086,7 @@ wells			IN  CNAME	wells.csl
 109.18.38.198.ip4	IN  PTR		wells.csl
 
 zindell.csl		IN  A		198.38.18.111
+			IN  AAAA	2001:468:cc0:0:221:5aff:fe2d:2b99
 zindell			IN  CNAME	zindell.csl
 111.18.38.198.ip4	IN  PTR		zindell.csl
 
